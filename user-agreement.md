@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Пользовательское соглашение PlayAuto
 lang: ru
 permalink: /sync/agreement
