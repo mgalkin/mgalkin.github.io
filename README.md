@@ -1,1 +1,0 @@
-# mgalkin.github.io
